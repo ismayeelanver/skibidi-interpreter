@@ -1,0 +1,23 @@
+nocap fr i = 2; // variables on the stack
+nocap sketchy f = 2; // constants on the stack
+skibidi main(toilet[args]) { // function declaration
+    fr r = 0; // variables inside function
+    attempt { // try
+        i
+    } otherwise(args) { // catch
+        flex_on(args) // throw
+    }
+    sketchy i = 0; // constants
+}
+
+gyatt class {
+    skibidi ahhh(toilet[args]) {
+
+    }
+} // classes
+
+stick out class for rizzler;
+
+kill ahhh() with camera_man;
+
+kill main() with camera_man; // calling function
